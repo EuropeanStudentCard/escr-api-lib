@@ -16,9 +16,9 @@ European Student Card offers the possibility to HEI to expose a RESTful API to a
 
 The advantage is that no personal data is helding in the router. The disadvantage is that the student cannot apply to proposed online services on the router
 
-To expose API you need to register the routes in the institution identity space.
+To expose an API you need to register the route in the institution identity space of the router.
 
-Find the "how to" 
+To add the library to your local project, Find the "how to" in the "doc" folder of this repo. 
 
 Here is the route that the lib allows to expose :
 
