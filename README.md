@@ -26,10 +26,15 @@ Here is the route that the lib allows to expose :
 ## Endpoint
 
 **/{HEI-domain}/{HEI-route}/{europeanStudentCardNumber}**
+
+
 METHOD : GET
+
+
 HEADERs : 
 - Content-Type →application/json
 - key : `< production API key fielded in the ESC institution form>`
+
 
 REQUIRED PARAMETERS :
 the European Student Card Number according to ESC standart :
